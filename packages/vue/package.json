@@ -1,0 +1,15 @@
+{
+  "name": "@vaust/vue",
+  "version": "0.1.0-dev",
+  "private": true,
+  "type": "module",
+  "description": "First-party Vue adapter for Vaust.",
+  "exports": "./src/index.js",
+  "peerDependencies": {
+    "vue": "^3.5.0"
+  },
+  "dependencies": {
+    "@vaust/core": "0.1.0-dev"
+  }
+}
+

@@ -1,0 +1,11 @@
+{
+  "name": "@vaust/cli",
+  "version": "0.1.0-dev",
+  "private": true,
+  "type": "module",
+  "description": "Development and build tooling for Vaust.",
+  "bin": {
+    "vaust": "./src/cli.js"
+  }
+}
+

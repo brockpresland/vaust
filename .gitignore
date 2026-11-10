@@ -1,0 +1,11 @@
+/vendor/
+/node_modules/
+/dist/
+/build/
+/coverage/
+/.phpunit.cache/
+/.env
+/.env.*
+!/.env.example
+*.log
+.DS_Store

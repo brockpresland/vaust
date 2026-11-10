@@ -1,0 +1,9 @@
+{
+  "name": "@vaust/core",
+  "version": "0.1.0-dev",
+  "private": true,
+  "type": "module",
+  "description": "Framework-neutral WordPress contracts and runtime primitives for Vaust.",
+  "exports": "./src/index.js"
+}
+
